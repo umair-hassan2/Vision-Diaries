@@ -102,4 +102,6 @@ theme: SoSimple
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github-personal:umair-hassan2/Vision-Diaries.git
+  branch: gh-pages
